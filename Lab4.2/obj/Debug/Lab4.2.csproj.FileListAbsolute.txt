@@ -1,0 +1,11 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\bin\Debug\Lab4.2.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\bin\Debug\Lab4.2.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\bin\Debug\Lab4.2.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4._2.frmCalculateGrade.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4._2.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Class 11 - 16022023\Lab4.2\obj\Debug\Lab4.2.pdb
